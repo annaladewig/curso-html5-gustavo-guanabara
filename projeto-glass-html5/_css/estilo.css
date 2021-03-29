@@ -247,6 +247,15 @@ aside#lateral h2 {
     padding: 5px;
 }
 
+video#filme01{
+    margin: 25px 50px;
+}
+
+video#filme02{
+    width: 350px;
+    margin-top: -15px;
+}
+
 /* Como eu tenho uma sessão à esquerda e um conteúdo periférico à direita, o footer tem que limpar a divisão
  que foi feita. Logo o conteúdo do footer vai ser mostrado fora da divisão. */
 footer#rodape {
